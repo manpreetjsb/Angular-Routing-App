@@ -1,0 +1,23 @@
+{
+  "name": "angular-routing-app",
+  "version": "1.0.0",
+  "description": "angular routing app",
+  "main": "main.js",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manpreetjsb/Angular-Routing-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manpreetjsb/Angular-Routing-App/issues"
+  },
+  "homepage": "https://github.com/manpreetjsb/Angular-Routing-App#readme"
+}
